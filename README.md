@@ -6,10 +6,9 @@ This is a **MERN stack** project designed for **car rentals, sales, and cab serv
 
 ### **👥 Team Members & Contributions**  
 This project was developed by a **team of 4 members**, with each member handling different aspects of the application.  
-- **Inderjeet Singh** – Designed and implemented the **MongoDB database schema**, ensuring efficient data storage and retrieval.  
-- Other members contributed to frontend development, API integration, authentication, and UI/UX design.  
+- **My Part** – Designed and implemented the **MongoDB database schema**, ensuring efficient data storage and retrieval. 
 
-### **⚡ Key Features**  
+### ** Project⚡ Key Features**  
 ✔️ **Car Information** – Browse detailed car listings with specifications and pricing.  
 ✔️ **Car Comparison** – Compare multiple cars based on features and price.  
 ✔️ **Car Rental** – Rent cars with availability status.  
@@ -25,7 +24,7 @@ This project was developed by a **team of 4 members**, with each member handling
 - **Authentication:** JWT  
 - **State Management:** Redux  
 
-### **📂 Database Schema (Designed by Inderjeet Singh)**  
+### **📂 Database Schema (Designed by Me)**  
 The MongoDB schema efficiently organizes data for:  
 - **Users** (authentication & profiles)  
 - **Cars** (rental, sales, and comparison)  
@@ -60,4 +59,3 @@ npm run dev
 
 ---
 
-This description highlights your contributions while making the project look professional! Let me know if you’d like any modifications. 🚀
